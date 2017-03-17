@@ -56,8 +56,8 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+  background: linear-gradient(to right, rgba(40, 97, 226, 0.4), rgba(44, 247, 52, 0.23)), url(https://su-cms-prod.s3.amazonaws.com/media/filer_public/a0/2c/a02c81ff-4006-4cd1-8c4a-e93b1feeba04/hero_future_earth_edge.jpg);
+  background-size: cover;}
 
 @media screen and (min-width: 64em) {
   .page-header {
